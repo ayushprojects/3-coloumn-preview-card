@@ -1,0 +1,49 @@
+body{
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.main{
+    display: flex;
+  margin: auto;
+  margin-top: 5rem;
+    width: 60rem;
+    height: 35rem;
+}
+
+
+.content{
+    display: block;
+    margin: 3rem;
+}
+
+.heading{
+    font-size: 2rem;
+    margin-top: 30px;
+    color: hsl(0, 0%, 95%);
+}
+#para{
+    margin-top: 2rem;
+    line-height: 28px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+#btn{
+    margin-top: 5rem;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    border-style: none;
+    font-size: 1rem;
+}
+
+.card1{
+ background-color: hsl(31, 77%, 52%);
+}
+
+.card2{
+  background-color: hsl(184, 100%, 22%);   
+}
+
+.card3{
+   background-color:  hsl(179, 100%, 13%);
+}
